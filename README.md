@@ -20,3 +20,7 @@
 ## Q&A
 
 如遇到顯示問題，歡迎提Issue
+
+## 案例
+
+![example](example.png)
