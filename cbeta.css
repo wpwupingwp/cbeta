@@ -1,0 +1,21 @@
+body {background:#DDF1DC;color:#000000; font-size:24; font-family:"source han serif medium", serif;}
+span.SearchWord1 {color:#0000ff; background: #ffff66;}
+span.SearchWord2 {color:#0000ff; background: #a0ffff;}
+span.SearchWord3 {color:#0000ff; background: #99ff99;}
+span.SearchWord4 {color:#0000ff; background: #ff9999;}
+span.SearchWord5 {color:#0000ff; background: #ff66ff;}
+a.hover {color:#0000ff;}
+a:visited  {color:#0000ff;}
+a:link  {font-size:16;color:#cccccc;}
+a:active {color:#0000ff;}
+span.juannum {color:#008000; font-size:24;}
+span.juanname {display:block;text-align:center;color:#0000FF; font-size:48;font-family:"source han sans regular",sans-serif}
+span.xu {color:#0000A0; font-size:24;}
+span.w {color:#800080; font-size:24;}
+span.byline {color:#408080; font-size:24;}
+span.headname {display:block;text-align:center;color:#0000A0; font-size:36;font-family:"source han sans regular", sans-serif}
+span.linehead {color:#0000A0; font-size:24;}
+span.lg {display:block;text-indent:20px;text-align:center;color:#0080ff;font-size:30;font-family:"source han sans regular",sans-serif;}
+span.corr {color:#FF0000; }
+span.gaiji { font-size:24;}
+span.note {color:#800080; font-size:20pt;}
