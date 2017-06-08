@@ -1,9 +1,9 @@
 body {background:#DDF1DC;color:#000000; font-size:24; font-family:"source han serif medium", serif;}
-span.SearchWord1 {color:#0000ff; background: #ffff66;}
-span.SearchWord2 {color:#0000ff; background: #a0ffff;}
-span.SearchWord3 {color:#0000ff; background: #99ff99;}
-span.SearchWord4 {color:#0000ff; background: #ff9999;}
-span.SearchWord5 {color:#0000ff; background: #ff66ff;}
+span.SearchWord1 {font-size:24;color:#0000ff; background: #ffff66;}
+span.SearchWord2 {font-size:24;color:#0000ff; background: #a0ffff;}
+span.SearchWord3 {font-size:24;color:#0000ff; background: #99ff99;}
+span.SearchWord4 {font-size:24;color:#0000ff; background: #ff9999;}
+span.SearchWord5 {font-size:24;color:#0000ff; background: #ff66ff;}
 a.hover {color:#0000ff;}
 a:visited  {color:#0000ff;}
 a:link  {font-size:16;color:#cccccc;}
