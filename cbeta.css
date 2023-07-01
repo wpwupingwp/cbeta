@@ -1,21 +1,127 @@
-body {background:#DDF1DC;color:#000000; font-size:24; font-family:"source han serif medium", serif;}
-span.SearchWord1 {font-size:24;color:#0000ff; background: #ffff66;}
-span.SearchWord2 {font-size:24;color:#0000ff; background: #a0ffff;}
-span.SearchWord3 {font-size:24;color:#0000ff; background: #99ff99;}
-span.SearchWord4 {font-size:24;color:#0000ff; background: #ff9999;}
-span.SearchWord5 {font-size:24;color:#0000ff; background: #ff66ff;}
-a.hover {color:#0000ff;}
-a:visited  {color:#0000ff;}
-a:link  {font-size:16;color:#cccccc;}
-a:active {color:#0000ff;}
-span.juannum {color:#008000; font-size:24;}
-span.juanname {display:block;text-align:center;color:#0000FF; font-size:48;font-family:"source han sans regular",sans-serif}
-span.xu {color:#0000A0; font-size:24;}
-span.w {color:#800080; font-size:24;}
-span.byline {color:#408080; font-size:24;}
-span.headname {display:block;text-align:center;color:#0000A0; font-size:36;font-family:"source han sans regular", sans-serif}
-span.linehead {color:#0000A0; font-size:24;}
-span.lg {display:block;text-indent:20px;text-align:center;color:#0080ff;font-size:30;font-family:"source han sans regular",sans-serif;}
-span.corr {color:#FF0000; }
-span.gaiji { font-size:24;}
-span.note {color:#800080; font-size:16;}
+body {
+    background: #DDF1DC;
+    color: #000000;
+    font-size: 24;
+    font-family: "Source Han Serif TC Medium", serif;
+}
+
+span.SearchWord1 {
+    font-size: 24;
+    color: #0000ff;
+    background: #ffff66;
+}
+
+span.SearchWord2 {
+    font-size: 24;
+    color: #0000ff;
+    background: #a0ffff;
+}
+
+span.SearchWord3 {
+    font-size: 24;
+    color: #0000ff;
+    background: #99ff99;
+}
+
+span.SearchWord4 {
+    font-size: 24;
+    color: #0000ff;
+    background: #ff9999;
+}
+
+span.SearchWord5 {
+    font-size: 24;
+    color: #0000ff;
+    background: #ff66ff;
+}
+
+a.hover {
+    color: #0000ff;
+}
+
+a:visited {
+    color: #0000ff;
+}
+
+a:link {
+    font-size: 16;
+    color: #cccccc;
+}
+
+a:active {
+    color: #0000ff;
+}
+
+span.juannum {
+    color: #008000;
+    font-size: 24;
+}
+
+span.juanname {
+    display: block;
+    text-align: center;
+    color: #0000FF;
+    font-size: 48;
+    font-family: "Source Han Sans TC Regular", sans-serif
+}
+
+span.xu {
+    color: #0000A0;
+    font-size: 24;
+}
+
+span.w {
+    color: #800080;
+    font-size: 24;
+}
+
+span.byline {
+    color: #408080;
+    font-size: 24;
+}
+
+span.headname {
+    display: block;
+    text-align: center;
+    color: #0000A0;
+    font-size: 36;
+    font-family: "Source Han Sans TC Regular", sans-serif
+}
+
+span.linehead {
+    color: #0000A0;
+    font-size: 24;
+}
+
+span.lg {
+    display: block;
+    text-indent: 20px;
+    text-align: center;
+    color: #0080ff;
+    font-size: 30;
+    font-family: "Source Han Sans TC Regular", sans-serif;
+}
+
+span.corr {
+    color: #FF0000;
+}
+
+span.gaiji {
+    font-size: 24;
+}
+
+span.note {
+    color: #800080;
+    font-size: 16;
+}
+
+.note_orig .note_mod .note_star {
+    color: #ee0000;
+    vertical-align: super;
+    font-size: 0.4em;
+}
+
+p {
+    font-size: 24;
+    text-indent: 2em;
+}
