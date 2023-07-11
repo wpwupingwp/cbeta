@@ -1,36 +1,36 @@
 body {
     background: #DDF1DC;
     color: #000000;
-    font-size: 24;
-    font-family: "Source Han Serif TC Medium", serif;
+    font-size: 36;
+    font-family: "Source Han Sans TC Regular", sans;
 }
 
 span.SearchWord1 {
-    font-size: 24;
+    font-size: 36;
     color: #0000ff;
     background: #ffff66;
 }
 
 span.SearchWord2 {
-    font-size: 24;
+    font-size: 36;
     color: #0000ff;
     background: #a0ffff;
 }
 
 span.SearchWord3 {
-    font-size: 24;
+    font-size: 36;
     color: #0000ff;
     background: #99ff99;
 }
 
 span.SearchWord4 {
-    font-size: 24;
+    font-size: 36;
     color: #0000ff;
     background: #ff9999;
 }
 
 span.SearchWord5 {
-    font-size: 24;
+    font-size: 36;
     color: #0000ff;
     background: #ff66ff;
 }
@@ -54,7 +54,7 @@ a:active {
 
 span.juannum {
     color: #008000;
-    font-size: 24;
+    font-size: 36;
 }
 
 span.juanname {
@@ -67,17 +67,17 @@ span.juanname {
 
 span.xu {
     color: #0000A0;
-    font-size: 24;
+    font-size: 36;
 }
 
 span.w {
     color: #800080;
-    font-size: 24;
+    font-size: 36;
 }
 
 span.byline {
     color: #408080;
-    font-size: 24;
+    font-size: 36;
 }
 
 span.headname {
@@ -90,15 +90,14 @@ span.headname {
 
 span.linehead {
     color: #0000A0;
-    font-size: 24;
+    font-size: 36;
 }
 
 span.lg {
     display: block;
-    text-indent: 20px;
     text-align: center;
     color: #0080ff;
-    font-size: 30;
+    font-size: 48 !important;
     font-family: "Source Han Sans TC Regular", sans-serif;
 }
 
@@ -107,7 +106,7 @@ span.corr {
 }
 
 span.gaiji {
-    font-size: 24;
+    font-size: 36;
 }
 
 span.note {
@@ -115,13 +114,30 @@ span.note {
     font-size: 16;
 }
 
-.note_orig .note_mod .note_star {
-    color: #ee0000;
-    vertical-align: super;
-    font-size: 0.4em;
+.note_orig {
+    color: #ee0000 !important;
+    vertical-align: super !important;
+    font-size: 0.4em !important;
 }
 
+.note_mod {
+    color: #ee0000 !important;
+    vertical-align: super !important;
+    font-size: 0.6em !important;
+}
+
+.note_star {
+    color: #ee0000 !important;
+    vertical-align: super !important;
+    font-size: 0.6em !important;
+}
+.note_add {
+    color: #ee0000 !important;
+    vertical-align: super !important;
+    font-size: 0.6em !important;
+}
 p {
-    font-size: 24;
-    text-indent: 2em;
+    font-family: "Source Han Serif TC Medium", serif;
+    font-size: 36 !important;
+    text-indent: 2em !important;
 }
